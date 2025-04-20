@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tishha
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning programming languages like HTML, CSS, PHP, JS
-- 💞️ I’m looking to collaborate on developing/revamping webpages
+- 👀 I’m interested in computer systems
+- 🌱 I’m currently learning programming languages like C, C++
 - 📫 You can reach me at tishhaagrawal@gmail.com
 
 <!---
